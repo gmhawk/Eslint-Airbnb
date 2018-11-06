@@ -1,0 +1,26 @@
+{
+  "name": "Eslint-Airbnb",
+  "version": "1.0.0",
+  "description": "Eslint settings for airbnb style guide",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmhawk/Eslint-Airbnb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmhawk/Eslint-Airbnb/issues"
+  },
+  "homepage": "https://github.com/gmhawk/Eslint-Airbnb#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1"
+  }
+}
